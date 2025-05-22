@@ -1,4 +1,2 @@
 Hola, este es mi primer archivo
 Esta es la segunda línea
-Esta es la 3 línea
-Nueva línea
